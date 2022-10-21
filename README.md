@@ -12,7 +12,7 @@ In our IoT-based research projects, we have developed and implemented three diff
 
 
 **Keywords**  
-IoT CyberSecurity Prediction | National Vulnerability Database (NVD) | Common Weaknesses Enumeration (CWE) | IoT security | Machine learning
+IoT CyberSecurity Prediction | National Vulnerability Database (NVD) | Common Vulnerabilities Enumeration (CVE) | Common Weaknesses Enumeration (CWE) | IoT security | Machine learning
 
 
 **The Datasets**  
