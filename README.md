@@ -85,4 +85,7 @@ Furthermore, in an effort to have a bigger dataset and since the NVD contains th
 
   
 **Datasets inquiries**
-Please submit any inquiry related to the datasets to [Carlos Rivera UNSWM e-mail](mailto:c.riveraalvarez@unsw.edu.au), or [Carlos Rivera personal e-mail](mailto:alberto.az.au@gmail.com)
+Please submit any inquiry related to the datasets to:
+- [Carlos Rivera UNSW email](mailto:c.riveraalvarez@unsw.edu.au)/[Carlos Rivera Personal email](mailto:alberto.az.au@gmail.com)
+- [Dr Arash Shaghaghi - UNSW](mailto:a.shaghaghi@unsw.edu.au), 
+- [Professor Salil Kanhere - UNSW](mailto:salil.kanhere@unsw.edu.au)
