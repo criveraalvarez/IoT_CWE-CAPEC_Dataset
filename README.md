@@ -85,5 +85,4 @@ Furthermore, in an effort to have a bigger dataset and since the NVD contains th
 
   
 **Datasets inquiries**
-
-Please submit any inquiry related to the datasets to mailto:mail@unsw.edu.au
+Please submit any inquiry related to the datasets to mailto:c.riveraalvarez@unsw.edu.au, or mailto:alberto.az.au@gmail.com
