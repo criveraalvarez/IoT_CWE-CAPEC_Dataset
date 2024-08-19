@@ -129,7 +129,7 @@ The CWEs are associated with one or up to eight CAPECs (Details in Table 5). We 
 |7 CAPECs |75       |7%
 |8 CAPECs |5        |0.5%
 
-The CAPEC dataset can be found in the following link: [(https://github.com/criveraalvarez/IsThisIoTDeviceLikelyToBeSecure-/blob/main/Dataset_IsThisIoTDeviceLikelytoBeSecure.csv)](https://github.com/criveraalvarez/IoT_CWE-CAPEC_Dataset/blob/30968d67946d40da633b09028a8d204da4a365e9/Datasets/DS_V575.5.csv).
+The CAPEC dataset can be found in the following [link](https://github.com/criveraalvarez/IoT_CWE-CAPEC_Dataset/blob/b6bbe4e3103faa70c610eda947a29cba90cad13c/Datasets/DS_V575.5.csv).
 
 **Datasets inquiries**
 Please submit any inquiry related to the datasets to:
