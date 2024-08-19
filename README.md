@@ -30,17 +30,17 @@ We searched the NVD for only the CVEs in the IoT devices database, obtained the 
 Description of features of dataset from [Rivera et al.](https://doi.org/10.1007/978-3-030-94822-1\_7)(SRC-1), ZoomEye (RC-2) and The NVD (SRC-3)
 |Source |Feature Name |Data Type |Unique Values|Details|
 | --- | --- | --- | --- | --- |
-|SRC-1  |Brand        |Categorical|            129     |Name of the device reported on the CVE.\\
-|SRC-1  |Product Type |Categorical|             71     |Phrase describing the product.\\
-|SRC-1  |Category     |Categorical|              5     |SmartHome, Medical, Wearable, Telecomm, and Other.\\
-|SRC-2  |Model        |Categorical|            Infinite |Product model identifier.\\
-|SRC-2  |Operating System|    Categorical|     Infinite |Operating System name identifier.\\
-|SRC-2  |Operating System Version|Categorical| Infinite |Operating System version identifier.\\
-|SRC-2  |Ports       |Categorical|             65535    |Numeric identifier of the port(s) detected open.\\
-|SRC-2  |Services    |Categorical|             [Infinite](https://www.rfc-editor.org/rfc/rfc6335) |Name of service associated to each open port.\\
-|SRC-3  |Vulnerability Description|Categorical|Infinite |Text of each vulnerability description.\\
-|SRC-3  |Weakness Description|Categorical     |926       |Text of each weakness description.\\
-|SRC-3  |Weakness ID   |Categorical           |926       |Identifier code assigned to each weakness. E.g. CWE-001\\ 
+|SRC-1  |Brand        |Categorical|            129     |Name of the device reported on the CVE.
+|SRC-1  |Product Type |Categorical|             71     |Phrase describing the product.
+|SRC-1  |Category     |Categorical|              5     |SmartHome, Medical, Wearable, Telecomm, and Other.
+|SRC-2  |Model        |Categorical|            Infinite |Product model identifier.
+|SRC-2  |Operating System|    Categorical|     Infinite |Operating System name identifier.
+|SRC-2  |Operating System Version|Categorical| Infinite |Operating System version identifier.
+|SRC-2  |Ports       |Categorical|             65535    |Numeric identifier of the port(s) detected open.
+|SRC-2  |Services    |Categorical|             [Infinite](https://www.rfc-editor.org/rfc/rfc6335) |Name of service associated to each open port.
+|SRC-3  |Vulnerability Description|Categorical|Infinite |Text of each vulnerability description.
+|SRC-3  |Weakness Description|Categorical     |926       |Text of each weakness description.
+|SRC-3  |Weakness ID   |Categorical           |926       |Identifier code assigned to each weakness. E.g. CWE-001. 
 
 
 
