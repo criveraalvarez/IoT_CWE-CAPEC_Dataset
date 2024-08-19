@@ -1,0 +1,1056 @@
+Vuln_ID,Brand,ProdType,Category,Price,Ydif,Protocols,DataStorage,PersonalInfo,CommCap,AuthEncryption,CWE-ID1,CWE-ID2,Information Gathering,Social Engineering,State Attack,Function Abuse,Brute Force,Illegal Access,Data Manipulation,Injection
+CVE-2013-2569,Zavio,IP Camera,Smart Home,115,9,TCPIP,Remote,No,"WiFi, Ethermet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2013-4867,Electronic Arts Karotz,Weather forecast,Smart Home,130,2,"TCPIP, MTP",Remote,Yes,"WiFi, RFID, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2013-4868,Electronic Arts Karotz,Weather forecast,Smart Home,130,2,"TCPIP, MTP",Remote,Yes,"WiFi, RFID, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2014-10374,Fitbit,activity-tracker,Wearable,136,0,GATT,Remote,Yes,Bluetooth,Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2014-7279,Konke,Smart Plug,Smart Home,22,1,TCPIP,Remote,No,WiFi,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2015-5729,Samsung,Smart TV,Smart Home,425,1,"TCPIP, MTP",Remote,Yes,"WiFi, Ethernet, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2015-8269,Fisher-Price,Smart Toy,Other,56,0,"TCPIP, MTP",Remote,Yes,"WiFi, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2016-10702,Pebble,Smart watch,Wearable,199,2,GATT,Remote,Yes,Bluetooth,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2016-1136,KDDI,WiFi Router,Telecomm,50,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2016-1139,KDDI,WiFi Router,Telecomm,50,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2016-1140,KDDI,WiFi Router,Telecomm,50,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2016-1141,KDDI,WiFi Router,Telecomm,50,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2016-1148,Akerun,Smart Lock,Smart Home,578,0,GATT,Remote,No,BLE,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2016-6539,Thetrackr,Tracking Device,Other,25,1,GATT,Remote,No,Bluetooth,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2016-6542,Thetrackr,Tracking Device,Other,25,1,GATT,Remote,No,Bluetooth,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-10676,D-Link,WiFi Router,Telecomm,13.07,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-11320,Technicolor,WiFi Router,Telecomm,18,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-12590,ASUS,WiFi Router,Telecomm,27,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-12591,ASUS,WiFi Router,Telecomm,88,4,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-13663,iSmartAlarm,Smart Alarm,Smart Home,100,2,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-13664,iSmartAlarm,Smart Alarm,Smart Home,100,2,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-14413,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-14414,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-14415,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-14416,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-14419,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2017-14420,D-Link,WiFi Router,Telecomm,133,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2017-16564,Grandstream,IP Phone,Telecomm,51,1,"TCPIP, DSP",Local,No,"Ethernet, DSL, ",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-16765,D-Link,Mobile Router,Telecomm,165,0,"TCPIP, MTP, DSP",Local,No,"WiFi, Ethernet, WAN, USB, LTE, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-16836,ARRIS,WiFi Router,Telecomm,114,0,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, USB, Coaxial, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-16843,Vonage,IP Phone,Telecomm,50,4,"TCPIP, DSP",Local,No,"Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-17749,Bose,Smart Speaker,Smart Home,778,9,"TCPIP, GATT, MTP",Local,No,"WiFi, Ethernet, USB, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-17750,Bose,Smart Speaker,Smart Home,778,9,"TCPIP, GATT, MTP",Local,No,"WiFi, Ethernet, USB, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-17860,Samsung,Smart Watch,Wearable,299,2,"GATT, RF",Remote,Yes,"BLE, NFC",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18483,ANNKE,IP Camera,Smart Home,71,2,"TCPIP, MTP, RS232",Local,No,"WiFI, Ethernet, USB, Serial",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18484,CogniToys,Smart Toy,Other,59.99,1,TCPIP,Remote,Yes,WiFi,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18485,CogniToys,Smart Toy,Other,59.99,1,TCPIP,Remote,Yes,WiFi,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-18642,Syska,Smart Light,Smart Home,16,0,GATT,Remote,No,Bluetooth,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18700,NETGEAR,WiFi Router,Telecomm,518,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18701,NETGEAR,WiFi Router,Telecomm,99,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18710,NETGEAR,WiFi Router,Telecomm,130,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18715,NETGEAR,WiFi Extender,Telecomm,231,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18745,NETGEAR,WiFi Router,Telecomm,195,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18769,NETGEAR,WiFi Router,Telecomm,518,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18778,NETGEAR,WiFi Router,Telecomm,518,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18783,NETGEAR,WiFi Router,Telecomm,174,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18784,NETGEAR,WiFi Router,Telecomm,174,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18785,NETGEAR,WiFi Router,Telecomm,174,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18789,NETGEAR,WiFi Router,Telecomm,130,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18790,NETGEAR,WiFi Router,Telecomm,195,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18797,NETGEAR,WiFi Router,Telecomm,130,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18798,NETGEAR,WiFi Router,Telecomm,195,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18800,NETGEAR,WiFi Router,Telecomm,195,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18803,NETGEAR,WiFi Router,Telecomm,306,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18807,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18809,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18810,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18811,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18812,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18813,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18814,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18815,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18816,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18820,NETGEAR,Smart Storage,Smart Home,3908,0,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-18847,NETGEAR,WiFi Router,Telecomm,130,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-18866,NETGEAR,WiFi Router,Telecomm,306,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-2111,I-O DATA,Smart Camera,Smart Home,241,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-2131,Panasonic,Smart Hub,Smart Home,89,2,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-2879,Foscam,WiFi Camera,Smart Home,49,2,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-5249,Wink,Smart Home,Telecomm,99,1,"TCPIP, GATT, RF",Remote,Yes,"WiFi, Ethernet, BLE, Z-Wave, ZigBee, Lutron Clear Connect, Thread, Kidde",None,CWE-693,CWE-664,1,1,1,1,1,1,1,0
+CVE-2017-5250,Wink,Smart Home,Telecomm,99,1,"TCPIP, GATT, RF",Remote,Yes,"WiFi, Ethernet, BLE, Z-Wave, ZigBee, Lutron Clear Connect, Thread, Kidde",None,CWE-693,CWE-664,1,1,1,1,1,1,1,0
+CVE-2017-5251,Wink,Smart Home,Telecomm,99,1,"TCPIP, GATT, RF",Remote,Yes,"WiFi, Ethernet, BLE, Z-Wave, ZigBee, Lutron Clear Connect, Thread, Kidde",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-6341,Dahua,DVR,Other,266,1,"TCPIP, MTP, RS232",Local,No,"Ethernet, USB, Serial",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-7726,iSmartAlarm,Smart Alarm,Smart Home,100,2,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2017-7729,iSmartAlarm,Smart Alarm,Smart Home,100,2,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-7730,iSmartAlarm,Smart Alarm,Smart Home,100,2,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2017-8217,TP-Link,WiFi Router,Telecomm,29,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2017-8221,WIFICAM,WiFi Camera,Smart Home,,,,,,,,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2017-8865,CogniToys,Smart Toy,Other,60,1,TCPIP,Remote,Yes,WiFi,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2017-8866,CogniToys,Smart Toy,Other,60,1,TCPIP,Remote,Yes,WiFi,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-0316,Cisco,IP Phone,Telecomm,41,3,TCPIP,Local,No,Ethernet,Symmetric,CWE-703,,0,0,0,0,0,1,0,0
+CVE-2018-0325,Cisco,IP Phone,Telecomm,41,3,TCPIP,Local,No,Ethernet,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0341,Cisco,IP Phone,Telecomm,41,3,TCPIP,Local,No,Ethernet,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0404,Cisco,WiFi Router,Telecomm,150,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0521,Buffalo,WiFi Router,Telecomm,200,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-0522,Buffalo,WiFi Router,Telecomm,200,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0523,Buffalo,WiFi Router,Telecomm,200,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0554,Buffalo,WiFi Router,Telecomm,36,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-0555,Buffalo,WiFi Router,Telecomm,36,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0556,Buffalo,WiFi Router,Telecomm,36,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0581,ASUS,WiFi Router,Telecomm,199,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0582,ASUS,WiFi Router,Telecomm,158,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0583,ASUS,WiFi Router,Telecomm,33,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0625,NEC,WiFi Router,Telecomm,49,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0626,NEC,WiFi Router,Telecomm,49,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0627,NEC,WiFi Router,Telecomm,49,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0628,NEC,WiFi Router,Telecomm,49,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0629,NEC,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0630,NEC,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0631,NEC,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0632,NEC,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0633,NEC,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0634,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0635,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0636,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0637,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0638,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0639,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0640,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0641,NEC,Smart Camera,Smart Home,209,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, InfraRed, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-0647,ASUS,WiFi Router,Telecomm,174,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-0663,I-O DATA,Smart Camera,Smart Home,161,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-0676,Panasonic,WiFi SD Reader,Other,319,4,"TCPIP, MTP",Local,No,"WiFi, SD, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-0677,Panasonic,WiFi SD Reader,Other,319,4,"TCPIP, MTP",Local,No,"WiFi, SD, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-0678,Panasonic,WiFi SD Reader,Other,319,4,"TCPIP, MTP",Local,No,"WiFi, SD, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10091,AudioCodes,IP Phone,Telecomm,143,4,"TCPIP, DSP",Local,No,"Ethernet, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10093,AudioCodes,IP Phone,Telecomm,143,4,"TCPIP, DSP",Local,No,"Ethernet, Phone",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-10106,D-Link,WiFi Router,Telecomm,55,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10107,D-Link,WiFi Router,Telecomm,55,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10108,D-Link,WiFi Router,Telecomm,55,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10110,D-Link,WiFi Router,Telecomm,21,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10431,D-Link,WiFi Router,Telecomm,21,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10575,WatchGard,WiFi Access Point,Telecomm,359,5,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-10576,WatchGard,WiFi Access Point,Telecomm,359,5,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-10577,WatchGard,WiFi Access Point,Telecomm,359,5,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10578,WatchGard,WiFi Access Point,Telecomm,359,5,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10596,Medtronic,Cardiac Device Manager,Medical,3000,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, PCMCIA",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10597,Philips,Patient Monitor,Medical,2153,11,"TCPIP, RF",Local,No,"WiFi, Ethernet, ISM",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10599,Philips,Patient Monitor,Medical,2153,11,"TCPIP, RF",Local,No,"WiFi, Ethernet, ISM",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10601,Philips,Patient Monitor,Medical,2153,11,"TCPIP, RF",Local,No,"WiFi, Ethernet, ISM",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10626,Medtronic,Heart Monitor,Medical,48,5,"GATT, DSP",Local,No,"Cellular, Bluetooth",none,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-10641,D-Link,WiFi Router,Telecomm,91,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-10746,D-Link,WiFi Router,Telecomm,53,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10747,D-Link,WiFi Router,Telecomm,53,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10748,D-Link,WiFi Router,Telecomm,53,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10749,D-Link,WiFi Router,Telecomm,200,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10750,D-Link,WiFi Router,Telecomm,93,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10822,D-Link,WiFi Router,Telecomm,21,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-10823,D-Link,WiFi Router,Telecomm,34,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10824,D-Link,WiFi Router,Telecomm,34,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-10957,D-Link,WiFi Router,Telecomm,34,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-10967,D-Link,WiFi Router,Telecomm,34,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-10968,D-Link,WiFi Router,Telecomm,34,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-11019,Kindle,Tablet,Smart Home,34,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11020,Kindle,Tablet,Smart Home,51,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11021,Kindle,Tablet,Smart Home,51,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11022,Kindle,Tablet,Smart Home,252,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11023,Kindle,Tablet,Smart Home,252,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11024,Kindle,Tablet,Smart Home,29,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11025,Kindle,Tablet,Smart Home,70,5,"TCPIP, GATT, MTP",Local,Yes,"WiFi, Bluetooth, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11240,SoftCase,WiFi Router,Telecomm,19,0,,,,,,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-11481,TP-Link,WiFi Camera,Smart Home,56,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11482,TP-Link,WiFi Camera,Smart Home,56,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-11491,ASUS,Smart Bridge,Smart Home,56,2,"TCPIP, GATT, RF, MTP",Remote,No,"WiFi, Bluetooth, ZigBee, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-1164,Zyxel,Router,Telecomm,40,9,"TCPIP, DSP",Local,No,"Ethernet, DSL",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-11689,Samsung,DVR,Smart Home,38,4,"TCPIP, MTP, RS232",Local,No,"Ethernet, USB, Serial, eSata",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-11714,TP-Link,WiFi Router,Telecomm,38,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-12038,Samsung,Solid State Drive,Other,649,4,MTP,Local,No,SATA,Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-12103,D-Link,WiFi Router,Telecomm,38,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-12574,TP-Link,WiFi Router,Telecomm,34,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-12575,TP-Link,WiFi Router,Telecomm,34,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-12576,TP-Link,WiFi Router,Telecomm,12784,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-12577,TP-Link,WiFi Router,Telecomm,71,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-12666,SV3C,IP Camera,Smart Home,22,0,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-12667,SV3C,IP Camera,Smart Home,62,0,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-12668,SV3C,IP Camera,Smart Home,21,0,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-12670,SV3C,IP Camera,Smart Home,108,0,TCPIP,Local,No,Ethernet,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-12671,SV3C,IP Camera,Smart Home,108,0,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-12672,SV3C,IP Camera,Smart Home,136,0,TCPIP,Local,No,Ethernet,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-12673,SV3C,IP Camera,Smart Home,136,0,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-12674,SV3C,IP Camera,Smart Home,100,0,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-12675,SV3C,IP Camera,Smart Home,139,0,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-12710,D-Link,WiFi Router,Telecomm,349,7,"TCPIP, PPTP",Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-13134,TP-Link,WiFi Router,Telecomm,15,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13306,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13307,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13308,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13309,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13310,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13311,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13312,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13313,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-13314,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13315,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13316,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-13317,TOTOLINK,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-14010,Xiaomi ,WiFi Router,Telecomm,369,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-14060,Xiaomi ,WiFi Router,Telecomm,369,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-14080,D-Link,WiFi Router,Telecomm,93,2,"TCPIP, PPTP",Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-14081,D-Link,WiFi Router,Telecomm,93,2,"TCPIP, PPTP",Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-14336,TP-Link,WiFi Router,Telecomm,93,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-14492,Tenda,WiFi Router,Telecomm,369,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-14557,Tenda,WiFi Router,Telecomm,499,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-14558,Tenda,WiFi Router,Telecomm,14,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-14559,Tenda,WiFi Router,Telecomm,104,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-14799,Philips,Cardiograph,Medical,34,1,"TCPIP, DSP, APDU, CCX",Remote,Yes,"WiFi, Ethernet, DSL, Smart Card",Both,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-15124,Zipato,Smart Home,Smart Home,22,5,"TCPIP, RF",Remote,Yes,"Ethernet, Z-Wave",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-15125,Zipato,Smart Home,Smart Home,230,5,"TCPIP, RF",Remote,Yes,"Ethernet, Z-Wave",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-15172,TP-Link,WiFi Router,Telecomm,34,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-15478,myStorm,WiFi Switch,Telecomm,,,,,,,,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-15602,Zyxel,WiFi Router,Telecomm,34,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-15839,D-Link,WiFi Router,Telecomm,34,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-15840,TP-Link,WiFi Router,Telecomm,62,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16218,Yealink,IP Phone,Smart Home,75,4,"TCPIP, DSP",Local,No,"Ethernet, Phone",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-16221,Yealink,IP Phone,Smart Home,75,4,"TCPIP, DSP",Local,No,"Ethernet, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16224,iSmartAlarm,Smart Alarm,Smart Home,75,3,"TCPIP, RF, MTP",Remote,Yes,"Ethernet, USB, ISM",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16242,Hangzhou Luoping,Smart Locker,Smart Home,75,1,GATT,Remote,No,BLE,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-16270,Samsung,Smart watch,Wearable,75,0,"TCPIP, GATT, RF",Remote,Yes,"Bluetooth, NFC, MST",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-16271,Samsung,Smart watch,Wearable,75,0,"TCPIP, GATT, RF",Remote,Yes,"Bluetooth, NFC, MST",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-16272,Samsung,Smart watch,Wearable,75,0,"TCPIP, GATT, RF",Remote,Yes,"Bluetooth, NFC, MST",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-16333,Tenda,WiFi Router,Telecomm,75,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16334,Tenda,WiFi Router,Telecomm,61,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-16408,D-Link,WiFi Router,Telecomm,62,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-16593,Sony,Smart TV,Smart Home,15,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-16594,Sony,Smart TV,Smart Home,75,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16595,Sony,Smart TV,Smart Home,194,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-16605,D-Link,WiFi Router,Telecomm,66,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17021,ASUS,WiFi Router,Telecomm,123,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17022,ASUS,WiFi Router,Telecomm,299,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-17023,ASUS,WiFi Router,Telecomm,99,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-17063,D-Link,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17064,D-Link,WiFi Router,Telecomm,299,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17065,D-Link,WiFi Router,Telecomm,9,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-17066,D-Link,WiFi Router,Telecomm,19,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17067,D-Link,WiFi Router,Telecomm,15,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-17068,D-Link,WiFi Router,Telecomm,19,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17176,Neato Botvac,Smart Vacuum Cleaner,Smart Home,55,0,TCPIP,Local,No,WiFi,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-17177,Neato Botvac,Smart Vacuum Cleaner,Smart Home,66,0,TCPIP,Local,No,WiFi,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-17555,ARRIS,WiFi Router,Telecomm,518,2,"TCPIP, DSP",Local,No,"WiFi, Ethernet, Coaxial, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-17587,AirTies,WiFi Router,Telecomm,119,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17588,AirTies,WiFi Router,Telecomm,119,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17589,AirTies,WiFi Router,Telecomm,306,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17590,AirTies,WiFi Router,Telecomm,306,1,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17591,AirTies,WiFi Router,Telecomm,306,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17593,AirTies,WiFi Router,Telecomm,306,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17594,AirTies,WiFi Router,Telecomm,306,6,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17777,D-Link,WiFi Router,Telecomm,306,0,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, Phone, Fiber, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-17786,D-Link,WiFi Router,Telecomm,306,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-17787,D-Link,WiFi Router,Telecomm,306,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17880,D-Link,WiFi Router,Telecomm,65,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-17881,D-Link,WiFi Router,Telecomm,306,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-17989,D-Link,WiFi Router,Telecomm,318,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-17990,D-Link,WiFi Router,Telecomm,119,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-18007,D-Link,WiFi Router,Telecomm,318,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB, Phone",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-18008,D-Link,WiFi Router,Telecomm,318,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB, Phone",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-18009,D-Link,WiFi Router,Telecomm,318,6,"TCPIP, MTP, RS232",Local,No,"WiFi, Ethernet, WAN, Serial, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-18287,ASUS,WiFi Router,Telecomm,318,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18291,ASUS,WiFi Router,Telecomm,318,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-18428,TP-Link,IP Camera,Smart Home,318,8,TCPIP,Local,No,Ethernet,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18441,D-Link,WiFi Camera,Smart Home,318,5,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18602,Guardzilla,Smart Camera,Smart Home,257,1,TCPIP,Remote,Yes,WiFi,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-18706,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18707,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18708,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18709,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18727,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18728,Tenda,WiFi Router,Telecomm,306,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-18729,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18730,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18731,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18732,Tenda,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-18754,Zyxel,WiFi Router,Telecomm,306,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-18767,D-Link,WiFi Camera,Smart Home,306,4,"TCPIP, MTP",Local,No,"WiFi, USB, MicroSD",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-19063,Foscam,WiFi Camera,Smart Home,102,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19064,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19065,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19066,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19067,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19069,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19070,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19071,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-19072,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-19073,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19075,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19076,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19077,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19078,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-19079,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-19080,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19081,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19082,Foscam,WiFi Camera,Smart Home,306,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19300,D-Link,WiFi Extender,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19326,Zyxel,WiFi Router,Telecomm,306,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19528,TP-Link,WiFi Router,Telecomm,306,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19537,TP-Link,WiFi Router,Telecomm,306,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-19922,Actiontec,WiFi Router,Telecomm,306,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19980,Anker,Smart Projector,Smart Home,99,1,"TCPIP, GATT, MTP",Local,Yes,"WiFi, USB, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19986,D-Link,WiFi Router,Telecomm,306,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19987,D-Link,WiFi Router,Telecomm,99,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19988,D-Link,WiFi Router,Telecomm,99,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19989,D-Link,WiFi Router,Telecomm,99,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-19990,D-Link,WiFi Router,Telecomm,99,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20007,Yeelight,Smart Speaker,Smart Home,61,1,"TCPIP, GATT, MTP, RS232",Remote,Yes,"WiFi, Bluetooth, USB, UART",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20056,D-Link,WiFi Router,Telecomm,90,4,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20057,D-Link,WiFi Router,Telecomm,90,4,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20114,D-Link,WiFi Router,Telecomm,90,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20299,Bosch,Smart Camera,Smart Home,90,1,"TCPIP, MTP",Remote,No,"WiFi, SD Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20305,D-Link,WiFi Router,Telecomm,90,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20333,ASUS,WiFi Router,Telecomm,306,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20334,ASUS,WiFi Router,Telecomm,16,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20335,ASUS,WiFi Router,Telecomm,309,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20336,ASUS,WiFi Router,Telecomm,309,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20372,TP-Link,WiFi Router,Telecomm,309,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20379,Technicolor,WiFi Router,Telecomm,179,2,"TCPIP, DSP",Local,No,"WiFi, Ethernet, Phone, Coaxial",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-20383,ARRIS,WiFi Router,Telecomm,179,5,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, Coaxial, WAN, DSL, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20386,ARRIS,WiFi Router,Telecomm,179,2,TCPIP,Local,No,"WiFi, Ethernet, Coaxial",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20389,D-Link,WiFi Router,Telecomm,179,0,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20401,Zoomtel,WiFi Router,Telecomm,179,5,TCPIP,Local,No,"WiFi, Ethernet, Coaxial",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20438,Technicolor,WiFi Router,Telecomm,51,9,"TCPIP, DSP",Local,No,"WiFi, Ethernet, Phone, Coaxial",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20439,Technicolor,WiFi Router,Telecomm,51,2,"TCPIP, DSP",Local,No,"WiFi, Ethernet, Phone, Coaxial",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20440,Technicolor,WiFi Router,Telecomm,51,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, Coaxial, USB",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20441,Technicolor,WiFi Router,Telecomm,179,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, Phone, Coaxial, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20442,Technicolor,WiFi Router,Telecomm,179,9,"TCPIP, DSP",Local,No,"WiFi, Ethernet, Phone, Coaxial",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20443,Technicolor,WiFi Router,Telecomm,179,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, Phone, Coaxial, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20444,Technicolor,WiFi Router,Telecomm,179,1,TCPIP,Local,No,"WiFi, Ethernet, Coaxial",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20445,D-Link,WiFi Router,Telecomm,179,0,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2018-20512,EPON,WiFi Router,Telecomm,179,2,TCPIP,Remote,Yes,"WiFi, Ethernet, Fiber, Coaxial",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-20675,D-Link,WiFi Router,Telecomm,179,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-20957,Tapplock,Smart Lock,Smart Home,179,0,GATT,Local,No,BLE,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21056,Samsung,Smart Watch,Wearable,179,0,"TCPIP, GATT, RF",Remote,Yes,"Bluetooth, NFC, MST",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21093,NETGEAR,WiFi Router,Telecomm,51,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21095,NETGEAR,WiFi Router,Telecomm,179,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21096,NETGEAR,WiFi Access Point,Telecomm,179,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-21097,NETGEAR,WiFi Access Point,Telecomm,51,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21098,NETGEAR,WiFi Router,Telecomm,51,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21099,NETGEAR,WiFi Router,Telecomm,51,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21100,NETGEAR,WiFi Router,Telecomm,798,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21101,NETGEAR,WiFi Router,Telecomm,798,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21103,NETGEAR,WiFi Router,Telecomm,51,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21104,NETGEAR,WiFi Router,Telecomm,67,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21105,NETGEAR,WiFi Router,Telecomm,67,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21106,NETGEAR,WiFi Router,Telecomm,67,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21107,NETGEAR,WiFi Router,Telecomm,67,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21108,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21109,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21110,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21111,NETGEAR,WiFi Router,Telecomm,238,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21112,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21113,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21114,NETGEAR,WiFi Router,Telecomm,238,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21115,NETGEAR,WiFi Router,Telecomm,238,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21118,NETGEAR,WiFi Router,Telecomm,523,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21119,NETGEAR,WiFi Access Point,Telecomm,359,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21120,NETGEAR,WiFi Access Point,Telecomm,359,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-21124,NETGEAR,WiFi Access Point,Telecomm,359,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21125,NETGEAR,WiFi Access Point,Telecomm,359,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21126,NETGEAR,WiFi Access Point,Telecomm,423,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21127,NETGEAR,WiFi Access Point,Telecomm,123,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21128,NETGEAR,WiFi Access Point,Telecomm,123,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21129,NETGEAR,WiFi Access Point,Telecomm,116,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21130,NETGEAR,WiFi Access Point,Telecomm,226,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21132,NETGEAR,WiFi Access Point,Telecomm,119,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21133,NETGEAR,WiFi Access Point,Telecomm,360,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21134,NETGEAR,WiFi Router,Telecomm,360,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21135,NETGEAR,WiFi Router,Telecomm,383,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21136,NETGEAR,WiFi Router,Telecomm,19,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21137,NETGEAR,WiFi Router,Telecomm,19,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21139,NETGEAR,WiFi Router,Telecomm,251,1,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21140,NETGEAR,WiFi Router,Telecomm,251,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21141,NETGEAR,WiFi Router,Telecomm,750,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21143,NETGEAR,Switch,Telecomm,4212,0,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21144,NETGEAR,WiFi Router,Telecomm,94,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21145,NETGEAR,WiFi Router,Telecomm,77,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21146,NETGEAR,WiFi Router,Telecomm,74,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21147,NETGEAR,WiFi Router,Telecomm,27,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21148,NETGEAR,WiFi Router,Telecomm,46,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21149,NETGEAR,WiFi Router,Telecomm,46,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21150,NETGEAR,WiFi Router,Telecomm,32,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21151,NETGEAR,WiFi Router,Telecomm,1288,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21152,NETGEAR,WiFi Router,Telecomm,37,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21153,NETGEAR,WiFi Router,Telecomm,37,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21154,NETGEAR,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21155,NETGEAR,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21156,NETGEAR,WiFi Router,Telecomm,16,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21157,NETGEAR,WiFi Router,Telecomm,20,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21162,NETGEAR,WiFi Router,Telecomm,35,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21163,NETGEAR,WiFi Extender,Telecomm,926,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21164,NETGEAR,WiFi Router,Telecomm,926,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21167,NETGEAR,WiFi Router,Telecomm,62,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21168,NETGEAR,WiFi Router,Telecomm,62,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21170,NETGEAR,WiFi Router,Telecomm,62,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21171,NETGEAR,WiFi Router,Telecomm,22,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21172,NETGEAR,WiFi Router,Telecomm,74,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21173,NETGEAR,WiFi Router,Telecomm,74,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21174,NETGEAR,WiFi Router,Telecomm,63,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21175,NETGEAR,WiFi Router,Telecomm,48,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21176,NETGEAR,WiFi Router,Telecomm,48,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21177,NETGEAR,WiFi Router,Telecomm,62,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21178,NETGEAR,WiFi Router,Telecomm,619,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21179,NETGEAR,WiFi Router,Telecomm,231,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21180,NETGEAR,WiFi Router,Telecomm,36,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21181,NETGEAR,WiFi Router,Telecomm,16,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21182,NETGEAR,WiFi Router,Telecomm,86,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21183,NETGEAR,WiFi Router,Telecomm,322,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21184,NETGEAR,WiFi Router,Telecomm,322,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21185,NETGEAR,WiFi Router,Telecomm,322,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21186,NETGEAR,WiFi Router,Telecomm,322,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21187,NETGEAR,WiFi Router,Telecomm,1034,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21188,NETGEAR,WiFi Router,Telecomm,1034,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21189,NETGEAR,WiFi Router,Telecomm,53,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21190,NETGEAR,WiFi Router,Telecomm,449,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21191,NETGEAR,WiFi Router,Telecomm,32,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21192,NETGEAR,WiFi Router,Telecomm,32,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21193,NETGEAR,WiFi Router,Telecomm,316,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21194,NETGEAR,WiFi Router,Telecomm,100,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21195,NETGEAR,WiFi Router,Telecomm,99,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21196,NETGEAR,WiFi Router,Telecomm,99,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21197,NETGEAR,WiFi Router,Telecomm,99,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21198,NETGEAR,WiFi Router,Telecomm,99,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21199,NETGEAR,WiFi Router,Telecomm,409,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21200,NETGEAR,WiFi Router,Telecomm,20,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21201,NETGEAR,WiFi Router,Telecomm,148,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21202,NETGEAR,WiFi Router,Telecomm,85,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21203,NETGEAR,WiFi Router,Telecomm,85,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21204,NETGEAR,WiFi Router,Telecomm,46,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21205,NETGEAR,WiFi Router,Telecomm,46,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21206,NETGEAR,WiFi Router,Telecomm,24,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21207,NETGEAR,WiFi Router,Telecomm,252,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21208,NETGEAR,WiFi Router,Telecomm,252,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21209,NETGEAR,WiFi Router,Telecomm,252,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21210,NETGEAR,WiFi Router,Telecomm,28,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21211,NETGEAR,WiFi Router,Telecomm,28,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21212,NETGEAR,WiFi Router,Telecomm,28,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21213,NETGEAR,WiFi Router,Telecomm,53,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21214,NETGEAR,WiFi Router,Telecomm,40,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21215,NETGEAR,WiFi Router,Telecomm,40,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21216,NETGEAR,WiFi Router,Telecomm,199,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21217,NETGEAR,WiFi Router,Telecomm,50,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21218,NETGEAR,WiFi Router,Telecomm,386,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21219,NETGEAR,WiFi Router,Telecomm,386,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21220,NETGEAR,WiFi Router,Telecomm,25,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21221,NETGEAR,WiFi Router,Telecomm,99,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21222,NETGEAR,WiFi Router,Telecomm,80,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21223,NETGEAR,WiFi Router,Telecomm,311,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21224,NETGEAR,WiFi Router,Telecomm,21,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB,",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-21225,NETGEAR,WiFi Router,Telecomm,87,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21226,NETGEAR,WiFi Router,Telecomm,118,4,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-21227,NETGEAR,WiFi Router,Telecomm,20,1,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-21228,NETGEAR,WiFi Router,Telecomm,93,1,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3856,Samsung,Smart Hub,Smart Home,66,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3863,Samsung,Smart Hub,Smart Home,57,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3864,Samsung,Smart Hub,Smart Home,57,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3865,Samsung,Smart Hub,Smart Home,21,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3866,Samsung,Smart Hub,Smart Home,32,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3867,Samsung,Smart Hub,Smart Home,699,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3872,Samsung,Smart Hub,Smart Home,75,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3873,Samsung,Smart Hub,Smart Home,197,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3874,Samsung,Smart Hub,Smart Home,197,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3875,Samsung,Smart Hub,Smart Home,197,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3876,Samsung,Smart Hub,Smart Home,184,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3877,Samsung,Smart Hub,Smart Home,184,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3878,Samsung,Smart Hub,Smart Home,450,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3879,Samsung,Smart Hub,Smart Home,55000,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3880,Samsung,Smart Hub,Smart Home,49,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3890,Yi,Smart Camera,Smart Home,49,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3891,Yi,Smart Camera,Smart Home,16,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3892,Yi,Smart Camera,Smart Home,45,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3893,Samsung,Smart Hub,Smart Home,35,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3894,Samsung,Smart Hub,Smart Home,31,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3895,Samsung,Smart Hub,Smart Home,32,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3896,Samsung,Smart Hub,Smart Home,125,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3897,Samsung,Smart Hub,Smart Home,125,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3898,Yi,Smart Camera,Smart Home,21,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3899,Yi,Smart Camera,Smart Home,21,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3900,Yi,Smart Camera,Smart Home,139,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3902,Samsung,Smart Hub,Smart Home,139,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3903,Samsung,Smart Hub,Smart Home,139,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3904,Samsung,Smart Hub,Smart Home,139,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3905,Samsung,Smart Hub,Smart Home,72,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3906,Samsung,Smart Hub,Smart Home,72,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3910,Yi,Smart Camera,Smart Home,74,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3911,Samsung,Smart Hub,Smart Home,74,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3912,Samsung,Smart Hub,Smart Home,287,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3913,Samsung,Smart Hub,Smart Home,81,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3914,Samsung,Smart Hub,Smart Home,65,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3915,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3916,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3917,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3918,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3919,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3920,Yi,Smart Camera,Smart Home,309,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3925,Samsung,Smart Hub,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3926,Samsung,Smart Hub,Smart Home,590,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-682,,0,0,0,0,0,0,1,0
+CVE-2018-3927,Samsung,Smart Hub,Smart Home,287,3,"TCPIP, GATT, RF, MTP",Remote,Yes,"WiFi, Ethernet, USB, ZigBee, Z-Wave, Bluetooth",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-3928,Yi,Smart Camera,Smart Home,333,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3935,Yi,Smart Camera,Smart Home,318,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3937,Sony,IP Camera,Smart Home,318,5,TCPIP,Local,No,Ethernet,Asymmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3938,Sony,IP Camera,Smart Home,318,5,TCPIP,Local,No,Ethernet,Asymmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3947,Yi,Smart Camera,Smart Home,257,1,"TCPIP, MTP",Local,No,"WiFi, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3948,TP-Link,Router,Telecomm,174,1,TCPIP,Local,No,"Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-3949,TP-Link,Router,Telecomm,199,1,TCPIP,Local,No,"Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3950,TP-Link,Router,Telecomm,199,1,TCPIP,Local,No,"Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-3951,TP-Link,Router,Telecomm,67,1,TCPIP,Local,No,"Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-6294,Hanwha Techwin,Smart Camera,Smart Home,124,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",Both,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-6295,Hanwha Techwin,Smart Camera,Smart Home,63,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",Both,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2018-6297,Hanwha Techwin,Smart Camera,Smart Home,32,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",Both,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2018-6298,Hanwha Techwin,Smart Camera,Smart Home,32,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",Both,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2018-6299,Hanwha Techwin,Smart Camera,Smart Home,32,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",Both,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2018-9162,Contec,Smart Home ,Smart Home,153,2,"TCPIP, RF",Local,No,Z-Wave,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10119,eQ-3,Smart Home,Smart Home,147,4,"TCPIP, RF, MTP",Local,No,"Ethernet, MicroSD, USB, LPN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10120,eQ-3,Smart Home,Smart Home,147,4,"TCPIP, RF, MTP",Local,No,"Ethernet, MicroSD, USB, LPN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-10121,eQ-3,Smart Home,Smart Home,109,4,"TCPIP, RF, MTP",Local,No,"Ethernet, MicroSD, USB, LPN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10122,eQ-3,Smart Home,Smart Home,147,4,"TCPIP, RF, MTP",Local,No,"Ethernet, MicroSD, USB, LPN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-10656,Grandstream,Router,Telecomm,462,2,"TCPIP, MTP",Local,Yes,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10657,Grandstream,Router,Telecomm,462,2,"TCPIP, MTP",Local,Yes,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10658,Grandstream,Router,Telecomm,462,3,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10659,Grandstream,Video Phone,Smart Home,462,1,"TCPIP, GATT, MTP",Remote,Yes,"WiFi, Ethernet, Bluetooth, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10660,Granstream,Smart Camera,Smart Home,462,1,TCPIP,Local,No,Ethernet,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10661,Granstream,Smart Camera,Smart Home,462,1,TCPIP,Local,No,Ethernet,Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10662,Grandstream,PBX,Telecomm,462,3,"TCPIP, DSP, MTP",Local,Yes,"Ethernet, Phone, USB, SD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10663,Grandstream,PBX,Telecomm,462,3,"TCPIP, DSP, MTP",Local,Yes,"Ethernet, Phone, USB, SD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10677,DASAN,Tripple Play Video,Smart Home,462,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10891,D-Link,WiFi Router,Telecomm,409,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10892,D-Link,WiFi Router,Telecomm,462,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-10956,Geutebruck ,Smart Camera,Smart Home,462,1,TCPIP,Local,No,Ethernet,Both,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10957,Geutebruck ,Smart Camera,Smart Home,462,1,TCPIP,Local,No,Ethernet,Both,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10958,Geutebruck ,Smart Camera,Smart Home,462,1,TCPIP,Local,No,Ethernet,Both,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-10964,Medtronic,Insulin Pump,Medical,462,20,RF,Local,No,ISM,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10966,GE,Anesthesia System,Medical,462,9,RS232,Local,No,Serial,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-10999,D-Link,Smart Camera,Smart Home,40,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11001,Reolink,Smart Camera,Smart Home,563,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11014,VStarCam,Smart Camera,Smart Home,11387,1,"TCPIP, MTP",Local,Yes,"WiFi, Ethernet, MicroSD",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11017,D-Link,WiFi Router,Telecomm,1383,15,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11321,Motorola,WiFi Router,Telecomm,71,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-11322,Motorola,WiFi Router,Telecomm,11,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11334,Tzumi Electronics,Smart Lock,Smart Home,225,1,GATT,Remote,No,Bluetooth,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-11336,Sony,Smart TV,Smart Home,225,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11399,TRENDnet,WiFi Router,Telecomm,225,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11400,TRENDnet,WiFi Router,Telecomm,225,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11414,Intelbras,WiFi Router,Telecomm,129,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-11416,Intelbras,WiFi Router,Telecomm,129,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-11417,TRENDnet,Smart Camera,Smart Home,129,8,TCPIP,Remote,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11418,TRENDnet,WiFi Router,Telecomm,135,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11877,PIX-Link,WiFi Repeater,Telecomm,135,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-11878,XiongMai Besder,Smart Camera,Smart Home,135,0,TCPIP,Local,No,Ethernet,None,CWE-682,,0,0,0,0,0,0,1,0
+CVE-2019-11890,Sony,Smart TV,Smart Home,563,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-11891,Bosch,Smart Home Controller,Smart Home,99,3,"TCPIP, RF, MTP",Local,Yes,"Ethernet, ISM, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-11893,Bosch,Smart Home Controller,Smart Home,46,3,"TCPIP, RF, MTP",Local,Yes,"Ethernet, ISM, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-11896,Bosch,Smart Home Controller,Smart Home,171,3,"TCPIP, RF, MTP",Local,Yes,"Ethernet, ISM, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12195,TP-Link,WiFi Router,Telecomm,125,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12288,VStarCam,Smart Camera,Smart Home,103,4,"TCPIP, MTP",Local,Yes,"WiFi, Ethernet, MicroSD",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12289,VStarCam,Smart Camera,Smart Home,185,4,"TCPIP, MTP",Local,Yes,"WiFi, Ethernet, MicroSD",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12325,Htek ,VoIP Phone,Smart Home,99,1,TCPIP,Remote,No,Ethernet,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-12326,Akuvox,VoIP Phone,Smart Home,99,5,TCPIP,Remote,No,Ethernet,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-12327,Akuvox,VoIP Phone,Smart Home,99,5,TCPIP,Remote,No,Ethernet,Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12328,Atcom,VoIP Phone,Smart Home,60,4,TCPIP,Remote,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12500,Xiaomi ,Smart Scooter,Other,39,2,GATT,Remote,No,Bluetooth,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12502,MOBOTIX,Smart Camera,Smart Home,39,1,"TCPIP, MTP",Remote,No,"Ethernet, MicroSD, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-12504,Inateck,Wireless Presenter,Smart Home,39,0,RF,Remote,No,ISM,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-12510,NETGEAR,WiFi Router,Telecomm,2614,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-12511,NETGEAR,WiFi Router,Telecomm,2614,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12512,NETGEAR,WiFi Router,Telecomm,2614,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12513,NETGEAR,WiFi Router,Telecomm,59,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12581,Zyxel,Unified Access Gateway,Telecomm,59,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12583,Zyxel,Unified Access Gateway,Telecomm,41,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-12727,Ubiquiti,Smart Camera,Smart Home,59,8,TCPIP,Remote,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-12780,Belkin,Smart Crock-Pot,Smart Home,130,5,TCPIP,Remote,No,WiFi,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-12919,Shenzhen,Smart Camera,Smart Home,55,1,"TCPIP, MTP",Remote,No,"WiFi, USB, MicroSD",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-12920,Shenzhen,Smart Camera,Smart Home,309,1,"TCPIP, MTP",Remote,No,"WiFi, USB, MicroSD",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-12944,Glue,Smart Lock,Smart Home,462,2,"TCPIP, GATT",Remote,No,"WiFi, Bluetooth",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-13336,Dbell,Smart Doorbell,Smart Home,462,3,TCPIP,Remote,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-13523,Honeywell,Smart Camera,Smart Home,184,0,"TCPIP, MTP",Remote,No,"Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-13560,D-Link,WiFi Router,Telecomm,462,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-13561,D-Link,WiFi Router,Telecomm,462,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-13562,D-Link,WiFi Router,Telecomm,462,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-13563,D-Link,WiFi Router,Telecomm,462,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-14334,D-Link,WiFi Access Point,Telecomm,150,7,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-14337,D-Link,WiFi Access Point,Telecomm,150,7,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-14338,D-Link,WiFi Access Point,Telecomm,150,7,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-14360,Hyunday Pay Kasse,Hardware Wallet,Other,42.95,1,MTP,Local,No,USB,Asymmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-15304,Lierda,Temperature Monitor,Smart Home,462,1,"TCPIP, MTP",Local,No,"WiFi, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-15530,D-Link,WiFi Router,Telecomm,708,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-15655,D-Link,WiFi Router,Telecomm,99,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2019-15656,D-Link,WiFi Router,Telecomm,309,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-15805,ARRIS,WiFi Router,Telecomm,462,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-15806,ARRIS,WiFi Router,Telecomm,99,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-15815,Zyxel,WiFi Router,Telecomm,99,1,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Phone",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-15910,Asus,Smart Bridge,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,No,"WiFi, Bluetooth, ZigBee, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-15911,Asus,Smart Bridge,Smart Home,174,3,"TCPIP, GATT, RF, MTP",Remote,No,"WiFi, Bluetooth, ZigBee, USB",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-15912,Asus,Smart Bridge,Smart Home,309,3,"TCPIP, GATT, RF, MTP",Remote,No,"WiFi, Bluetooth, ZigBee, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-15913,Xiaomi ,Smart Bridge,Smart Home,174,5,"TCPIP, RF",Remote,No,"WiFi, ZigBee",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-15914,Xiaomi ,Smart Bridge,Smart Home,231,5,"TCPIP, RF",Remote,No,"WiFi, ZigBee",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-15915,Xiaomi ,Smart Bridge,Smart Home,231,5,"TCPIP, RF",Remote,No,"WiFi, ZigBee",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-16213,Tenda,WiFi Extender,Telecomm,409,2,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-16326,D-Link,WiFi Router,Telecomm,173,8,"TCPIP, PPTP",Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-16327,D-Link,WiFi Router,Telecomm,256,8,"TCPIP, PPTP",Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-16340,Linksys,WiFi System,Telecomm,462,2,"TCPIP, GATT",Local,No,"WiFi, Ethernet, WAN, Bluetooth",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-16518,Vandy Vape,Vape,Other,174,1,GATT,Remote,No,Bluetooth,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-16533,Draytek,WiFi Router,Telecomm,462,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-16534,Draytek,WiFi Router,Telecomm,102,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-16893,TP-Link,Switch,Telecomm,231,2,TCPIP,Local,No,Ethernet,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-16920,D-Link,WiFi Router,Telecomm,51,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17098,August,Smart Bridge,Smart Home,930,4,TCPIP,Remote,No,WiFi,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17101,Netatmo,Smart Camera,Smart Home,1438,1,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, USB, MicroSD",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17222,Intelbras,WiFi Router,Telecomm,14,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17353,D-Link,WiFi Router,Telecomm,57,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17372,NETGEAR,WiFi Router,Telecomm,41,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17505,D-Link,WiFi Extender,Telecomm,930,2,TCPIP,Local,No,WiFi,Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17506,D-Link,WiFi Router,Telecomm,930,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17507,D-Link,WiFi Router,Telecomm,930,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17508,D-Link,WiFi Router,Telecomm,930,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17509,D-Link,WiFi Router,Telecomm,229,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17510,D-Link,WiFi Router,Telecomm,229,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17511,D-Link,WiFi Router,Telecomm,231,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17512,D-Link,WiFi Router,Telecomm,62,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17523,Technicolor,WiFi Router,Telecomm,28,2,TCPIP,Local,No,"WiFi, Ethernet, DSL, Coaxial",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17524,Technicolor,WiFi Router,Telecomm,28,2,TCPIP,Local,No,"WiFi, Ethernet, DSL, Coaxial",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17525,D-Link,WiFi Router,Telecomm,365,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17532,Belkin,Power Switch,Smart Home,257,4,TCPIP,Remote,No,WiFi,None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-17627,Yale,Smart Lock,Smart Home,84,2,GATT,Remote,No,Bluetooth,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-17663,D-Link,WiFi Router,Telecomm,84,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18199,Fujitsu,WiFi Keyboard,Other,59,5,RF,Remote,No,ISM,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-18201,Fujitsu,WiFi Keyboard,Other,135,5,RF,Remote,No,ISM,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-18228,Honeywell,Smart Camera,Smart Home,135,0,"TCPIP, MTP",Remote,No,"Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18230,Honeywell,Smart Camera,Smart Home,21,0,"TCPIP, MTP",Remote,No,"Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-18241,Philips,Hub Bridge,Medical,43,3,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-18254,BIOTRONIK,Remote Monitoring System,Medical,45,11,"DSP, RF",Local,No,"GSM, ISM",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-18256,BIOTRONIK,Remote Monitoring System,Medical,45,11,"DSP, RF",Local,No,"GSM, ISM",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-1826,Cisco,WiFi Access Point,Telecomm,200,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18263,Philips,Surgical Imaging System,Medical,43,3,TCPIP,Local,No,WiFi,Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-1827,Cisco,WiFi Router,Telecomm,200,3,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18370,Xiaomi ,WiFi Router,Telecomm,170,2,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18371,Xiaomi ,WiFi Router,Telecomm,91,2,"TCPIP, MTP",Remote,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-18382,AVStart,Smart Camera,Smart Home,114,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-18666,D-Link,WiFi Extender,Telecomm,116,7,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-18852,D-Link,WiFi Router,Telecomm,102,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-19143,TP-Link,WiFi Router,Telecomm,563,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-19597,D-Link,WiFi Extender,Telecomm,100,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-19598,D-Link,WiFi Extender,Telecomm,85,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-19742,D-Link,WiFi Router,Telecomm,268,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-19743,D-Link,WiFi Router,Telecomm,185,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20070,Netis,WiFi Router,Telecomm,55,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20072,Netis,WiFi Router,Telecomm,55,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20073,Netis,WiFi Router,Telecomm,55,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20075,Netis,WiFi Router,Telecomm,55,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20076,Netis,WiFi Router,Telecomm,55,5,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20213,D-Link,WiFi Router,Telecomm,185,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20215,D-Link,WiFi Router,Telecomm,22,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20216,D-Link,WiFi Router,Telecomm,103,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20217,D-Link,WiFi Router,Telecomm,109,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20486,NETGEAR,WiFi Router,Telecomm,97,10,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20487,NETGEAR,WiFi Router,Telecomm,97,10,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-20488,NETGEAR,WiFi Router,Telecomm,97,10,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20489,NETGEAR,WiFi Router,Telecomm,97,10,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-20499,D-Link,WiFi Access Point,Telecomm,97,6,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20500,D-Link,WiFi Access Point,Telecomm,32,6,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20501,D-Link,WiFi Access Point,Telecomm,63,6,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20638,NETGEAR,Mobile Router,Telecomm,39,0,"TCPIP, DSP, MTP",Local,No,"LTE, WiFi, Ethernet, USB, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20639,NETGEAR,WiFi System,Telecomm,39,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20640,NETGEAR,WiFi Router,Telecomm,75,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20643,NETGEAR,WiFi Router,Telecomm,21,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20644,NETGEAR,WiFi Router,Telecomm,21,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20645,NETGEAR,WiFi Router,Telecomm,97,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20646,NETGEAR,WiFi Router,Telecomm,29,0,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20648,NETGEAR,Smart Storage,Smart Home,269,2,"TCPIP, MTP",Local,Yes,"Ethernet, USB, e-SATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20649,NETGEAR,Mobile Router,Telecomm,269,0,"TCPIP, DSP, MTP",Local,No,"LTE, WiFi, Ethernet, USB, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20650,NETGEAR,WiFi Router,Telecomm,116,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20651,NETGEAR,WiFi Access Point,Telecomm,49,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20652,NETGEAR,WiFi Access Point,Telecomm,70,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20653,NETGEAR,WiFi Access Point,Telecomm,70,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20654,NETGEAR,WiFi Access Point,Telecomm,46,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20655,NETGEAR,WiFi Router,Telecomm,46,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20656,NETGEAR,WiFi Router,Telecomm,595,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-20660,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20661,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20662,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20663,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20664,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20665,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20666,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20667,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20668,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20669,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20670,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20671,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20672,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20673,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20674,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20675,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20676,NETGEAR,Switch,Telecomm,257,0,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-20677,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20678,NETGEAR,WiFi System,Telecomm,80.56,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20693,NETGEAR,WiFi Access Point,Telecomm,318,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2019-20714,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20715,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20720,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20721,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20729,NETGEAR,WiFi Router,Telecomm,99,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20738,NETGEAR,WiFi Router,Telecomm,306,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20742,NETGEAR,WiFi Access Point,Telecomm,121,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20743,NETGEAR,WiFi Access Point,Telecomm,121,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20744,NETGEAR,WiFi Access Point,Telecomm,121,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-20746,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20749,NETGEAR,WiFi Router,Telecomm,309,2,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20750,NETGEAR,WiFi Router,Telecomm,309,2,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20752,NETGEAR,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20756,NETGEAR,WiFi Router,Telecomm,130,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-20759,NETGEAR,WiFi Router,Telecomm,321.75,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-3411,ZTE,Mobile Router,Telecomm,150,1,"TCPIP, DSP, MTP",Local,No,"WiFi, LTE, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-3412,ZTE,Mobile Router,Telecomm,194,1,"TCPIP, DSP, MTP",Local,No,"WiFi, LTE, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-3422,ZTE,Mobile Router,Telecomm,200,4,"TCPIP, DSP, MTP",Local,No,"WiFi, LTE, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-3423,ZTE,Smart Camera,Smart Home,104,5,"TCPIP, MTP",Remote,No,"WiFi, MicroSD, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5071,Tenda,WiFi Router,Telecomm,219,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-5072,Tenda,WiFi Router,Telecomm,619,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-5268,Huawei,Router,Telecomm,619,0,TCPIP,Remote,No,"WiFi, Ethernet, WLAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-5632,Hickory,Smart lock,Smart Home,184,2,GATT,Remote,No,Bluetooth,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5633,Hickory,Smart lock,Smart Home,150,2,GATT,Remote,No,Bluetooth,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5634,Hickory,Smart Lock,Smart Home,150,2,GATT,Remote,No,Bluetooth,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5635,Hickory,Smart Bridge,Telecomm,150,0,"TCPIP, RF",Remote,No,"Ethernet, ISM",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-5994,Canon,Digital Camera,Other,150,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5995,Canon,Digital Camera,Other,150,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-5998,Canon,Digital Camera,Other,150,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-5999,Canon,Digital Camera,Other,43,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-6000,Canon,Digital Camera,Other,14,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-6001,Canon,Digital Camera,Other,28,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, CF Card",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-6113,ONKYO,AV Receiver,Smart Home,45,0,"TCPIP, GATT, MTP",Local,No,"WiFi, Bluetooth, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-6258,D-Link,WiFi Router,Telecomm,45,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-6282,ChinaMobile,WiFi Router,Telecomm,200,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-6487,TP-Link,WiFi Router,Telecomm,55,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-6710,Zyxel,WiFi Router,Telecomm,55,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-6968,D-Link,WiFi Router,Telecomm,55,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, Phone, Fiber, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-6969,D-Link,WiFi Router,Telecomm,55,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, Phone, Fiber, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-6972,TP-Link,WiFi Router,Telecomm,81,7,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-6989,TP-Link,WiFi Router,Telecomm,81,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-7163,Alcatel,Mobile Router,Telecomm,81,2,"TCPIP, DSP, MTP",Local,No,"WiFi, LTE, HSPA, GSM, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-7297,D-Link,WiFi Router,Telecomm,81,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-7298,D-Link,WiFi Router,Telecomm,81,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-7311,Linksys,WiFi Router,Telecomm,81,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-7315,Genie,Smart Camera,Smart Home,81,3,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-7388,D-Link,WiFi Router,Telecomm,81,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-7389,D-Link,WiFi Router,Telecomm,81,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-7390,D-Link,WiFi Router,Telecomm,81,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-7391,Zyxel,WiFi Router,Telecomm,81,1,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Phone",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-7579,Linksys,WiFi Router,Telecomm,81,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, eSATA",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-7736,D-Link,WiFi Router,Telecomm,81,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-9123,D-Link,WiFi Router,Telecomm,81,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-9124,D-Link,WiFi Router,Telecomm,81,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-9125,D-Link,WiFi Router,Telecomm,318,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,CWE-284,1,1,0,0,0,1,1,1
+CVE-2019-9126,D-Link,WiFi Router,Telecomm,65,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-9556,FiberHome,WiFi Router,Telecomm,32,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-9676,Dahua,Smart Camera,Smart Home,65,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-9677,Dahua,Smart Camera,Smart Home,65,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-9678,Dahua,Smart Camera,Smart Home,65,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2019-9679,Dahua,Smart Camera,Smart Home,99,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2019-9680,Dahua,Smart Camera,Smart Home,306,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2019-9681,Dahua,Smart Camera,Smart Home,121,2,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2019-9682,Dahua,Smart Camera,Smart Home,121,1,"TCPIP, MTP, RS232",Local,No,"Ethernet, USB, Serial, RS485",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2019-9871,Jector,Smart TV,Smart Home,121,3,"TCPIP, MTP",Local,Yes,"WiFi, Ethernet, Coaxial, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2019-9955,Zyxel,Unified Access Gateway,Telecomm,1034,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10173,Comtrend,WiFi Router,Telecomm,65,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10176,Yale,Smart Camera,Smart Home,309,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10213,D-Link,WiFi Router,Telecomm,309,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10214,D-Link,WiFi Router,Telecomm,65,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10215,D-Link,WiFi Router,Telecomm,130,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10216,D-Link,WiFi Router,Telecomm,322,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10262,Xiaomi ,Smart Speaker,Smart Home,104,1,"TCPIP, GATT",Remote,Yes,"WiFi, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10263,Xiaomi ,Smart Speaker,Smart Home,32,1,"TCPIP, GATT",Remote,Yes,"WiFi, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10513,iCatch,DVR,Smart Home,1034,2,"TCPIP, MTP",Local,No,"Ethernet, USB, e-SATA",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10514,iCatch,DVR,Smart Home,649,2,"TCPIP, MTP",Local,No,"Ethernet, USB, e-SATA",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10558,Tesla,Smart Car,Other,649,3,"TCPIP, GATT, DSP, MTP",Local,Yes,"WiFi, Bluetooth, LTE, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10823,Draytek,Router,Telecomm,13,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10824,Draytek,Router,Telecomm,18,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10825,Draytek,Router,Telecomm,27,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10826,Draytek,Router,Telecomm,88,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10827,Draytek,Router,Telecomm,133,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10828,Draytek,Router,Telecomm,133,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10881,TP-Link,WiFi Router,Telecomm,133,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10882,TP-Link,WiFi Router,Telecomm,133,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10883,TP-Link,WiFi Router,Telecomm,133,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-10884,TP-Link,WiFi Router,Telecomm,133,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10885,TP-Link,WiFi Router,Telecomm,51,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10886,TP-Link,WiFi Router,Telecomm,165,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10887,TP-Link,WiFi Router,Telecomm,114,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10888,TP-Link,WiFi Router,Telecomm,50,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10916,TP-Link,WIFi Extender,Telecomm,778,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10923,NETGEAR,WiFi Router,Telecomm,778,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10924,NETGEAR,WiFi Router,Telecomm,71,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10925,NETGEAR,WiFi Router,Telecomm,60,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10926,NETGEAR,WiFi Router,Telecomm,60,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,CWE-693,1,1,1,1,1,1,1,0
+CVE-2020-10927,NETGEAR,WiFi Router,Telecomm,518,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-10928,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-10929,NETGEAR,WiFi Router,Telecomm,102,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-682,,0,0,0,0,0,0,1,0
+CVE-2020-10930,NETGEAR,WiFi Router,Telecomm,130,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10971,Wavlink,WIFi Extender,Telecomm,231,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10972,Wavlink,WiFi Router,Telecomm,65,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-10973,Wavlink,WiFi Router,Telecomm,195,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-10974,Wavlink,WiFi Router,Telecomm,99,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-10986,Tenda,WiFi Router,Telecomm,518,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-10987,Tenda,WiFi Router,Telecomm,518,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-10988,Tenda,WiFi Router,Telecomm,174,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-10989,Tenda,WiFi Router,Telecomm,174,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11445,TP-Link,Smart Camera,Smart Home,174,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11449,Technicolor,WiFi Router,Telecomm,174,10,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-11539,Tata Sonata,Smart Band,Wearable,130,1,GATT,Local,No,Bluetooth,Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-11549,NETGEAR,WiFi system,Telecomm,195,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11550,NETGEAR,WiFi Router,Telecomm,130,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-11551,NETGEAR,WiFi Router,Telecomm,195,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11617,THOMPSON,DVB,Other,195,1,TCPIP,Local,No,"Ethernet, Coaxial",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11768,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11769,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11770,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11771,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11772,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11773,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11774,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11775,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11776,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11777,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11778,NETGEAR,WiFi Router,Telecomm,3908,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11779,NETGEAR,WiFi Router,Telecomm,130,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11780,NETGEAR,WiFi Router,Telecomm,306,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11781,NETGEAR,WiFi Router,Telecomm,241,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11782,NETGEAR,WiFi Router,Telecomm,89,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11783,NETGEAR,WiFi Router,Telecomm,49,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11784,NETGEAR,WiFi Router,Telecomm,266,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11785,NETGEAR,WiFi Router,Telecomm,29,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11786,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11787,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11788,NETGEAR,WiFi Router,Telecomm,174,7,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11789,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11790,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11792,NETGEAR,WiFi Router,Telecomm,333,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-11950,VIVOTEK,Smart Camera,Smart Home,524,1,"TCPIP, MTP",Local,No,"Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-11959,Xiaomi ,WiFi Router,Telecomm,147,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-11961,Xiaomi ,WiFi Router,Telecomm,147,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12020,Baxter,Compounding System,Medical,1381,16,TCPIP,Local,No,Ethernet,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12023,Philips,Vital signs monitor,Medical,2614,8,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12024,Baxter,Compounding System,Medical,,#VALUE!,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12032,Baxter,Compounding System,Medical,,#VALUE!,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12036,Baxter,Multiple Therapies System,Medical,,#VALUE!,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12040,Baxter,Infusion System System,Medical,,#VALUE!,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12041,Baxter,Infusion System System,Medical,,#VALUE!,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-12043,Baxter,Infusion System System,Medical,,#VALUE!,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12045,Baxter,Infusion System System,Medical,,#VALUE!,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12047,Baxter,Infusion System System,Medical,,#VALUE!,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12048,Phoenix,Hemodialysis Delivery System,Medical,500,10,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12109,TP-Link,Smart Camera,Smart Home,184,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12110,TP-Link,Smart Camera,Smart Home,184,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12111,TP-Link,Smart Camera,Smart Home,184,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12246,Beeline,Router,Telecomm,130,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12266,Wavlink,WiFi Router,Telecomm,46.4,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12280,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12281,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12282,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12447,ONKYO,Radio Receiver,Smart Home,400,2,"TCPIP, GATT, MTP",Local,No,"WiFi, Ethernet, Bluetooth, USB",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12500,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12501,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12502,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,Local,No,Ethernet,None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12503,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12504,RocketLinx ,Ethernet Switch,Telecomm,1055,1,TCPIP,Local,No,Ethernet,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-12774,D-Link,WiFi Router,Telecomm,99.95,7,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL,Phone, Console",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12837,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-12838,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12839,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12840,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12841,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-12842,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-12843,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13119,Gogogate,Smart Gate,Smart Home,249,1,"TCPIP, GATT, RF, MTP",Local,Yes,"WiFi, USB, ISM, Bluetooth",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13135,D-Link,Smart Plug,Smart Home,64.49,6,TCPIP,Local,No,WiFi,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13136,D-Link,WiFi Router,Telecomm,64.49,6,TCPIP,Local,No,WiFi,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13150,D-Link,WiFi Router,Telecomm,33.4,10,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, Phone, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-13224,TP-Link,Smart Camera,Smart Home,184,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13245,NETGEAR,WiFi Router,Telecomm,195,7,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-13364,Zyxel,Smart Storage,Other,287,3,"TCPIP, MTP",Local,Yes,"Ethernet, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-13365,Zyxel,Smart Storage,Other,287,3,"TCPIP, MTP",Local,Yes,"Ethernet, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-13389,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13390,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13391,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13392,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13393,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13394,Tenda,WiFi Router,Telecomm,92,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13782,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-13783,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13784,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-13785,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-13786,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-13787,D-Link,WiFi Router,Telecomm,153.4,8,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-13913,Ruckus ,WiFi Access Point,Telecomm,595,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14094,Xiaomi ,WiFi Router,Telecomm,147,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14095,Xiaomi ,WiFi Router,Telecomm,147,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14096,Xiaomi ,Smart Speaker,Smart Home,109,2,"TCPIP, GATT",Remote,No,"WiFi, Bluetooth",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-14100,Xiaomi ,WiFi Router,Telecomm,147,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-14157,Abus,Smart Control Panel,Smart Home,267,3,RF,Local,No,ISM,None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-14426,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14427,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14428,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14429,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14430,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14431,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-14432,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-14433,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14434,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14435,NETGEAR,WiFi system,Telecomm,409,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14436,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14437,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14438,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14439,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14440,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14441,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14442,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14461,Zyxel,WiFi Extender,Telecomm,40,4,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-14472,Draytek,Router,Telecomm,563,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-14477,Philips,Ultrasound system,Medical,11387,5,"TCPIP, MTP",Local,No,"Ethernet, USB, CD/DVD",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-14511,Moxa,Router,Telecomm,1383,2,TCPIP,Local,No,"Ethernet, WAN, Console",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-14965,TP-Link,WiFi Router,Telecomm,71,11,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15023,Askey,WiFi Access Point,Telecomm,150,2,TCPIP,Remote,No,"WiFi, Ethernet",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-15043,iBall,WiFi Router,Telecomm,11,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",None,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-15054,TP-Link,USB Server,Telecomm,225,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-15055,TP-Link,USB Server,Telecomm,225,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15056,TP-Link,USB Server,Telecomm,225,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15057,TP-Link,USB Server,Telecomm,225,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15058,Lindy,USB Server,Other,129,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-15059,Lindy,USB Server,Other,129,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15060,Lindy,USB Server,Other,129,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15061,Lindy,USB Server,Other,129,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15062,Digitus,USB Server,Other,135,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-15063,Digitus,USB Server,Other,135,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15064,Digitus,USB Server,Other,135,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15065,Digitus,USB Server,Other,135,3,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15415,Draytek,Router,Telecomm,563,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15416,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15417,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15489,Wavlink,WiFi Router,Telecomm,46.4,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15490,Wavlink,WiFi Router,Telecomm,46.4,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15498,ASUS,WiFi Router,Telecomm,171,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15499,ASUS,WiFi Router,Telecomm,171,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15631,D-Link,WiFi Extender,Telecomm,125.1,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15632,D-Link,WiFi Router,Telecomm,102.61,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15633,D-Link,WiFi Router,Telecomm,184.68,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-15634,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15635,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15636,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15892,D-Link,WiFi Extender,Telecomm,60.35,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15893,D-Link,WiFi Router,Telecomm,38.64,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15894,D-Link,WiFi Router,Telecomm,38.64,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-15895,D-Link,WiFi Router,Telecomm,38.64,5,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-15896,D-Link,WiFi Extender,Telecomm,298.41,16,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-16218,Philips,Patient Monitor,Medical,2153,13,"TCPIP, RF",Local,No,"WiFi, Ethernet, ISM",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-16237,Philips,Vital signs monitor,Medical,2614,8,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-16239,Philips,Vital signs monitor,Medical,2614,8,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-16241,Philips,Vital signs monitor,Medical,2614,8,"TCPIP, MTP",Local,No,"Ethernet, USB",None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-24354,Zyxel,WiFi Router,Telecomm,59,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-24355,Zyxel,WiFi Router,Telecomm,59,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-24363,TP-Link,WiFi Extender,Telecomm,41,3,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-24365,Gemtek,WiFi Router,Telecomm,59,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB, Phone",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-25067,NETGEAR,WiFi Router,Telecomm,130,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26567,D-Link,WiFi Router,Telecomm,194,2,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, Console",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-26582,D-Link,WiFi Access Point,Telecomm,54.5,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26899,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-26900,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-26901,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-26902,NETGEAR,WiFi system,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26903,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-26904,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-26905,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-26906,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-26907,NETGEAR,WiFi system,Telecomm,708,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26909,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26910,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26912,NETGEAR,WiFi Router,Telecomm,99,6,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2020-26913,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-26914,NETGEAR,WiFi Router,Telecomm,174,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26915,NETGEAR,WiFi Router,Telecomm,309,3,"TCPIP, DSP, MTP",Local,No,"WiFi, DSL, Ethernet, USB, Phone",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26917,NETGEAR,WiFi Extender,Telecomm,231,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26918,NETGEAR,WiFi Extender,Telecomm,231,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26920,NETGEAR,WiFi system,Telecomm,409,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26924,NETGEAR,WiFi Access Point,Telecomm,173,5,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-26926,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-26927,NETGEAR,WiFi Router,Telecomm,174,6,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-26928,NETGEAR,WiFi Router,Telecomm,462,0,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-26929,NETGEAR,WiFi Router,Telecomm,102,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-26930,NETGEAR,WiFi Router,Telecomm,231,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-27980,Genexis,WiFi Router,Telecomm,51,2,TCPIP,Local,No,"WiFi, Ethernet, WAN, Coaxial",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3110,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3111,Cisco,IP Phone,Smart Home,1438,3,TCPIP,Local,No,Ethernet,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3330,Cisco,WiFi Router,Telecomm,56.96,9,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-3360,Cisco,IP Phone,Smart Home,41,3,TCPIP,Local,No,Ethernet,Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-3505,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-3506,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3507,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3543,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-3544,Cisco,IP Camera,Smart Home,930,3,"TCPIP, MTP, RS232",Local,No,"Ethernet, MicroSD, Serial, ",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-3923,Tonnet,DVR,Smart Home,229,1,"TCPIP, MTP",Local,No,"Ethernet, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-3924,Tonnet,DVR,Smart Home,229,1,"TCPIP, MTP",Local,No,"Ethernet, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-3930,GeoVision,Smart Access Control,Smart Home,231,3,TCPIP,Local,No,"Ethernet, RFID",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-5534,NEC,WiFi Router,Telecomm,62,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-5589,Sony,Headphones,Wearable,257,1,GATT,Remote,No,Bluetooth,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-5735,Dahua,Smart Camera,Smart Home,84.14,3,"TCPIP, MTP",Local,No,"WiFi, Ethernet, SD Card",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-6007,Philips,Hue Bridge,Smart Home,59,3,"TCPIP, RF, MTP",Remote,Yes,"WiFi, Ethernet, ZigBee, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-6765,D-Link,WiFi Router,Telecomm,99.77,3,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, DSL, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-6841,D-Link,WiFi Extender,Telecomm,135.28,2,TCPIP,Local,No,WiFi,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-6842,D-Link,WiFi Extender,Telecomm,135.28,2,TCPIP,Local,No,WiFi,Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-6862,ZTE,WiFi Router,Telecomm,20.9,2,TCPIP,Local,No,"WiFi, Ethernet, Fiber",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-6863,ZTE,WiFi Router,Telecomm,43,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-6864,ZTE,WiFi Router,Telecomm,43,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-6955,Cayin,Media Player,Other,219,10,"TCPIP, MTP, RS232",Local,No,"Ethernet, USB, Serial",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-7057,Hikvision,DVR,Smart Home,170,4,"TCPIP, MTP",Local,No,"Ethernet, USB, SATA",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-7234,Ruckus ,WiFi Access Point,Telecomm,91,4,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-7235,UHP,Satellite Router,Telecomm,619,3,"TCPIP, MTP",Local,No,"Ethernet, USB, Coaxial",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-7236,UHP,Satellite Router,Telecomm,619,3,"TCPIP, MTP",Local,No,"Ethernet, USB, Coaxial",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-7249,SMC,WiFi Router,Telecomm,114,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB, Coaxial",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-7805,KT,Mobile Router,Telecomm,116,3,"TCPIP, GATT, DSP, MTP",Local,Yes,"WiFi, LTE, Bluetooth, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8033,Ruckus ,WiFi Access Point,Telecomm,102,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8033,Ruckus ,WiFi Access Point,Telecomm,102,1,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8515,Draytek,Router,Telecomm,563,6,"TCPIP, MTP",Local,No,"Ethernet, WAN, USB",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8824,Hitron,WiFi Router,Telecomm,100,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, USB, Coaxial",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8861,D-Link,WiFi Extender,Telecomm,84.93,4,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-8862,D-Link,WiFi Access Point,Telecomm,267.55,2,TCPIP,Local,No,"WiFi, Ethernet",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-8863,D-Link,WiFi Router,Telecomm,184.68,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-8958,Guangzhou,WiFi Router,Telecomm,22,4,TCPIP,Local,No,"WiFi, Ethernet, WAN, Fiber",None,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-8962,D-Link,WiFi Router,Telecomm,102.61,6,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-8994,Xiaomi ,Smart Speaker,Smart Home,109,2,"TCPIP, GATT",Remote,No,"WiFi, Bluetooth",None,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-9275,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-9276,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-9277,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-9278,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-9279,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-9374,TP-Link,WiFi Router,Telecomm,32,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-9375,TP-Link,WiFi Router,Telecomm,63,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-9376,D-Link,WiFi Router,Telecomm,38.67,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-9377,D-Link,WiFi Router,Telecomm,38.67,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2020-9438,Tinxy,Smart Door lock,Smart Home,75,2,TCPIP,Remote,No,WiFi,None,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-9476,ARRIS,WiFi Router,Telecomm,28,4,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, USB, Coaxial, DSL",Symmetric,CWE-284,CWE-664,1,1,0,0,0,1,1,1
+CVE-2020-9477,HUMAX,WiFi Router,Telecomm,17,2,"TCPIP, DSP, MTP",Local,No,"WiFi, Ethernet, USB, WAN, Phone",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-9534,D-Link,WiFi Router,Telecomm,20.55,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-9535,D-Link,WiFi Router,Telecomm,20.55,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2020-9544,D-Link,WiFi Router,Telecomm,97.26,10,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Console",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2020-9550,Rubetek,SmartHome 2020,Smart Home,29,3,"TCPIP, RF, MTP",Local,No,"WiFi, ISM, USB",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2021-1413,Cisco,WiFi Router,Telecomm,269,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-1414,Cisco,WiFi Router,Telecomm,269,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-1415,Cisco,WiFi Router,Telecomm,269,1,"TCPIP, MTP",Local,No,"WiFi, Ethernet, WAN, USB",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-20644,ELECOM,WiFi Router,Telecomm,116,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20645,ELECOM,WiFi Router,Telecomm,42,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20646,ELECOM,WiFi Router,Telecomm,42,7,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2021-20647,ELECOM,WiFi Router,Telecomm,36,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2021-20648,ELECOM,WiFi Router,Telecomm,36,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20649,ELECOM,WiFi Router,Telecomm,36,5,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2021-20650,ELECOM,IP Camera,Smart Home,127,4,"TCPIP, MTP",Local,No,"WiFi, Ethernet, MicroSD",Symmetric,CWE-693,,1,1,1,1,1,1,1,0
+CVE-2021-20680,NEC,WiFi Router,Telecomm,49,4,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20708,NEC,WiFi Router,Telecomm,73,4,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20710,NEC,WiFi Router,Telecomm,70,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20711,NEC,WiFi Router,Telecomm,70,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-20712,NEC,WiFi Router,Telecomm,70,3,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2021-21722,ZTE,Set Top Box,Smart Home,41,6,TCPIP,Local,No,"WiFi, Ethernet",None,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-21725,ZTE,WiFi Router,Telecomm,70,3,"TCPIP, MTP, DSP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2021-21725,ZTE,WiFi Router,Telecomm,70,3,"TCPIP, MTP, DSP",Local,No,"WiFi, Ethernet, WAN, DSL, USB",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2021-23241,Mercusys,WiFi System,Telecomm,50,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-23242,Mercusys,WiFi System,Telecomm,50,1,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-27403,Askey,WiFi Router,Telecomm,46,4,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Fiber",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-27404,Askey,WiFi Router,Telecomm,46,4,"TCPIP, DSP",Local,No,"WiFi, Ethernet, DSL, Fiber",Symmetric,CWE-664,,0,0,0,0,0,1,0,0
+CVE-2021-28150,Hongdian,Mobile Router,Telecomm,499,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-28151,Hongdian,Mobile Router,Telecomm,499,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-707,,0,0,0,1,0,0,1,1
+CVE-2021-28152,Hongdian,Mobile Router,Telecomm,499,2,TCPIP,Local,No,"WiFi, Ethernet, WAN",Symmetric,CWE-284,,1,1,0,0,0,1,1,1
+CVE-2021-31793,NightOwl,Smart Door lock,Smart Home,80,1,"TCPIP, MTP",Remote,No,"WiFi, MicroSD",None,CWE-284,,1,1,0,0,0,1,1,1
