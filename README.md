@@ -77,6 +77,9 @@ Table 2 discloses the number of records each DS contains, and Table 3 provides t
 |IO DS |21.5    | 2| 19,273 | 46 |
 |AS DS |123.5   |19|  1,110 | 43 |
 
+The CWE datasets can be found in the following links:
+[IO_DS](https://github.com/criveraalvarez/IoT_CWE-CAPEC_Dataset/blob/30968d67946d40da633b09028a8d204da4a365e9/Datasets/OI_V1.1_DS.csv).
+[AS_DS](https://github.com/criveraalvarez/IoT_CWE-CAPEC_Dataset/blob/30968d67946d40da633b09028a8d204da4a365e9/Datasets/AS_V2.1_DS.csv).
 
 
 **Notes:**
@@ -116,6 +119,7 @@ The CWEs are associated with one or up to eight CAPECs (Details in Table 5). We 
 
 **Table 5. Dataset Labels Distribution.**
 |Associated Labels | Counts  | Distribution |
+| --- | --- | --- |
 |1 CAPEC  |320      |30%
 |2 CAPECs |1        |0.1%
 |3 CAPECs |434      |40.7%
@@ -125,6 +129,7 @@ The CWEs are associated with one or up to eight CAPECs (Details in Table 5). We 
 |7 CAPECs |75       |7%
 |8 CAPECs |5        |0.5%
 
+The CAPEC dataset can be found in the following link: [(https://github.com/criveraalvarez/IsThisIoTDeviceLikelyToBeSecure-/blob/main/Dataset_IsThisIoTDeviceLikelytoBeSecure.csv)](https://github.com/criveraalvarez/IoT_CWE-CAPEC_Dataset/blob/30968d67946d40da633b09028a8d204da4a365e9/Datasets/DS_V575.5.csv).
 
 **Datasets inquiries**
 Please submit any inquiry related to the datasets to:
