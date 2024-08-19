@@ -15,7 +15,7 @@ In our IoT-based research projects, we have developed and implemented two differ
 IoT CyberSecurity Prediction | National Vulnerability Database (NVD) | Common Vulnerabilities Enumeration (CVE) | Common Weaknesses Enumeration (CWE) | IoT security | Machine learning
 
 
-**The Datasets**  
+**CWE Datasets**  
 We aim to analyse text and, through ML models, predict any IoT device's weakness(es). We define the necessity of a dataset with mostly text as its content and divide it into two parts: the first, a text sequence (the input) and the classes to predict (the output). The output would contain a finite list of weaknesses(CWEs). 
 Searching for possible sources, we used the dataset from [Rivera et al.](https://doi.org/10.1007/978-3-030-94822-1\_7) and added technical information (from Zoomeye) to form our dataset-0 (Table-1). Analysing this dataset, we found two problems: First, the information is organised in features rather than just text; Secondly, the classes predicted are risk labels(Low, Medium, High, Critical). 
 
@@ -85,9 +85,49 @@ Table 2 discloses the number of records each DS contains, and Table 3 provides t
 -	The Only-IoT dataset contains records that relate to vulnerabilities reported in most of the known IoT devices' brands. Furthermore, in our analysis of the information we did not consider devices from brands such as Apple or Google. The All-systems has not limitations, hence, it contains these two brands' devices.
 
 
-  
+
+**CAPEC Dataset**
+We use the CAPEC mapping as labels to predict CAPECs from the dataset of IoT devices with weaknesses. 
+We constructed the dataset for our prediction framework from different sources, and we used as the foundation the same dataset we created in [Rivera et al.](https://doi.org/10.1007/978-3-030-94822-1\_7). The elements and source of each element are described in Table \ref{table:table1_DS_Sources}. We added to this dataset the weaknesses that are associated with each device. It is important to clarify here that each record of this dataset is coupled with different vulnerabilities (managed by the NVD). Because of this association, we have several repeated records; however, the content will differ in the type and number of weaknesses (CWEs) associated with each vulnerability. For the current prediction, we needed to link the devices and the weaknesses with the CAPECs, a problem we solved using the mapping approach in [Luh et al.](https://doi.org/10.1007/s11416-019-00342-x). The final structure and details of each feature of the dataset we constructed are disclosed in Table 4.
+
+
+**Table 4. CAPEC Dataset features.**
+Description of features we gathered to create the CAPECs dataset we use to predict the CAPECs in IoT devices. We show the details for each feature. The sources labels are: SRC-1 from [Rivera et al.](https://doi.org/10.1007/978-3-030-94822-1\_7), RC-2 from NVD, and SRC-3 from [Luh et al.](https://doi.org/10.1007/s11416-019-00342-x). 
+|Source |Feature Name |Data Type |Unique Values|Details|
+| --- | --- | --- | --- | --- |
+|SRC-1 |Brand        |Categorical    |129      |Name of the device reported on the CVE.
+|SRC-1 |Product Type |Categorical    | 71      |Phrase describing the product.
+|SRC-1 |Category     |Categorical    |  5      |SmartHome, Medical, Wearable, Telecomm, and Other.
+|SRC-1 |Price        |Continuous     |Infinite |Reported in US Dollars.
+|SRC-1 |Year Difference |Continuous  |Infinite |Difference of Years between a vulnerability was reported and the product release year.
+|SRC-1 |Protocols    |Categorical    |  8      |Protocols used in Communication Capability.
+|SRC-1 |Data Storage |Binary         |  2      |Location of data Locally or Remotely.
+|SRC-1 |Personal Information |Binary |  2      |Tracks physical location: Yes or No.
+|SRC-1 |Communication Capability |Categorical  | 31 |Communication technology.
+|SRC-1 |Authorisation Encryption |Categorical  |  4 |Encryption used: Symmetric, Asymmetric, None, or Both.
+|SRC-2 |Weakness ID-1 |Categorical |  9        |From NVD, identification code of each weakness(CWE) associated per vulnerability.
+|SRC-2 |Weakness ID-2 |Categorical |  9        |From NVD, identification code of each weakness(CWE) associated per vulnerability.
+|SRC-3 |Associated CAPEC-IDs [8 Class Labels] |Binary |  2  |Mapped APT-CAPEC categories list.
+
+
+We applied the same data transformation approach as in [Rivera et al.](https://doi.org/10.1007/978-3-030-94822-1\_7), which consisted of Label Encoding for each categorical feature, Text Frequency Normalisation technique to all numeric values, and scaling the data and reducing the sparseness through the Standard function.
+
+The CWEs are associated with one or up to eight CAPECs (Details in Table 5). We found the dataset to be imbalanced from the data distribution analysis.
+
+**Table 5. Dataset Labels Distribution.**
+|Associated Labels | Counts  | Distribution |
+|1 CAPEC  |320      |30%
+|2 CAPECs |1        |0.1%
+|3 CAPECs |434      |40.7%
+|4 CAPECs |0        |0%
+|5 CAPECs |226      |21.2%
+|6 CAPECs |0        |0%
+|7 CAPECs |75       |7%
+|8 CAPECs |5        |0.5%
+
+
 **Datasets inquiries**
 Please submit any inquiry related to the datasets to:
-- [Carlos Rivera UNSW email](mailto:c.riveraalvarez@unsw.edu.au)/[Carlos Rivera Personal email](mailto:alberto.az.au@gmail.com)
+- [Dr. Carlos Rivera UNSW email](mailto:c.rivera_alvarez@unswalumni.com),
 - [Dr Arash Shaghaghi - UNSW](mailto:a.shaghaghi@unsw.edu.au), 
 - [Professor Salil Kanhere - UNSW](mailto:salil.kanhere@unsw.edu.au)
