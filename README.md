@@ -133,6 +133,6 @@ The CAPEC dataset can be found in the following [link](https://github.com/criver
 
 **Datasets inquiries**
 Please submit any inquiry related to the datasets to:
-- [Dr. Carlos Rivera UNSW email](mailto:c.rivera_alvarez@unswalumni.com),
-- [Dr Arash Shaghaghi - UNSW](mailto:a.shaghaghi@unsw.edu.au), 
+- [Dr. Carlos Rivera - UNSW](mailto:c.rivera_alvarez@unswalumni.com),
+- [Dr. Arash Shaghaghi - UNSW](mailto:a.shaghaghi@unsw.edu.au), 
 - [Professor Salil Kanhere - UNSW](mailto:salil.kanhere@unsw.edu.au)
