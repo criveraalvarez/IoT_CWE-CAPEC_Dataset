@@ -3,7 +3,7 @@
 
 
 **Authors**  
-  Carlos A. Rivera A.(1), Arash Shaghaghi1(1), Gustavo Batista(1), David D. Nguyen(1), and Salil S. Kanhere(1)  
+  Carlos A. Rivera A.(1), Arash Shaghaghi1(1), Gustavo Batista(1), and Salil S. Kanhere(1)  
    1. The University of New South Wales (UNSW) Sydney, Australia.  
   
   
